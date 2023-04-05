@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
+  "name": "ICL Documentation",
   "logo": {
-    "dark": "/logo/dark.png",
-    "light": "/logo/light.png"
+    "dark": "https://illegalchemistrylectures.org/logo%20inverse.png",
+    "light": "https://illegalchemistrylectures.org/favicon.png"
   },
-  "favicon": "/favicon.png",
+  "favicon": "https://illegalchemistrylectures.org/favicon.png",
   "colors": {
     "primary": "#0069ED",
     "light": "#4D9CFF",
