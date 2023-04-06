@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "ICL Documentation",
   "logo": {
-    "dark": "https://illegalchemistrylectures.org/logo%20inverse.png",
-    "light": "https://illegalchemistrylectures.org/favicon.png"
+    "dark": "images/logo-inverse.png",
+    "light": "images/logo.png"
   },
-  "favicon": "https://illegalchemistrylectures.org/favicon.png",
+  "favicon": "images/favicon.png",
   "colors": {
     "primary": "#0069ED",
     "light": "#4D9CFF",
